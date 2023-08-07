@@ -1,6 +1,6 @@
 # Flip_Card_SimpleWay
 Simple way To Flip a Card
-Always remember these steps for any flipping animation:
+Always remember these steps for any flipping animation:  https://simplifiedweb.github.io/Flip_Card_SimpleWay/
 
 Perspective should always be set on the parent container, and its value should be a minimum of 1000px for a depth effect.
 Apply transform-style: preserve-3d to the card wrapper that contains all the elements to be flipped, such as two cards.
